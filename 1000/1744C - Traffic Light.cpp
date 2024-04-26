@@ -23,7 +23,7 @@ int main() {
 	int tc = 1;
 	cin >> tc;
 	for (int i = 1; i <= tc; i++) {
-		// cout << "TEST CASE #" << i << ":\n";
+		// cout << "TEST CASE #" << i << ":\n"; Looks good!
 		solve();
 	}
 }
